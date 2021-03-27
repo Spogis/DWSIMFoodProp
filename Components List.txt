@@ -1,4 +1,5 @@
 Acetic acid
+Acrylamide
 Beta-myrcene
 Caryophyllene
 Citric acid (anhydrous)
@@ -24,3 +25,4 @@ Sorbitol
 Stearic acid
 Sucrose
 Xylitol
+
