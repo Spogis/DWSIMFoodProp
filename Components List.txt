@@ -1,7 +1,12 @@
 Acetic acid
 Acrylamide
+Arachidic acid
+Behenic acid
 Beta-myrcene
+Capric acid
+Caprylic acid
 Caryophyllene
+Cerotic acid
 Citric acid (anhydrous)
 d-Mannitol
 d-Mannose
@@ -13,16 +18,18 @@ L-Ascorbic acid
 L-Lactic acid
 L-Malic acid
 Lactose
+Lauric acid
+Lignoceric acid
 Limonene
 Linalool
 Linoleic Acid
 Linolenic acid
 Maltose
 Maltotriose
+Myristic acid
 Oleic acid
 Palmitic Acid
 Sorbitol
 Stearic acid
 Sucrose
 Xylitol
-
