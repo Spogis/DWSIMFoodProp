@@ -7,7 +7,9 @@ Capric acid
 Caprylic acid
 Caryophyllene
 Cerotic acid
+Cholecalciferol
 Citric acid (anhydrous)
+Coniferyl alcohol
 d-Mannitol
 d-Mannose
 Farnesene
@@ -29,7 +31,11 @@ Maltotriose
 Myristic acid
 Oleic acid
 Palmitic Acid
+Retinol
 Sorbitol
 Stearic acid
 Sucrose
+Tocopherol
+Tokoferol
 Xylitol
+Xylose
