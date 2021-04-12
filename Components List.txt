@@ -37,5 +37,6 @@ Stearic acid
 Sucrose
 Tocopherol
 Tokoferol
+Trilaurin
 Xylitol
 Xylose
